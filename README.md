@@ -1,5 +1,5 @@
 # Promotion Price Sensitivity Analysis
-
+Completing this project for NBrown Ltd.
 ## Project Overview
 The goal of this project is to analyze the impact of discounts on product sales and estimate the quantity of items we can anticipate selling under various scenarios, such as applying different discounts or offering no discounts at all.
 
